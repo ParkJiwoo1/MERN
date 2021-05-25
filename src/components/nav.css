@@ -1,0 +1,11 @@
+
+.buttons{
+    display: flex;
+    margin-left: auto;
+}
+.container{
+   margin-bottom: 100px;
+}
+.Appbar{
+    margin-bottom: 100px;
+}
